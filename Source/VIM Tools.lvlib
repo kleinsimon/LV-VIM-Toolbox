@@ -7,6 +7,13 @@
 	<Property Name="NI_IconEditor" Type="Str">50 48 48 49 56 48 48 48 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 4 46 1 100 0 0 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 3 189 0 0 0 0 0 0 0 0 0 0 3 162 0 40 0 0 3 156 0 0 3 96 0 0 0 0 0 9 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 206 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 7 86 73 32 73 99 111 110 100 1 0 0 0 0 0 5 65 114 114 97 121 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
 
 </Property>
+	<Item Name="Comparison" Type="Folder">
+		<Item Name="All Close.vim" Type="VI" URL="../Comparison/All Close.vim"/>
+		<Item Name="Element In Range.vim" Type="VI" URL="../Comparison/Element In Range.vim"/>
+		<Item Name="Is Finite.vim" Type="VI" URL="../Comparison/Is Finite.vim"/>
+		<Item Name="Odd Or Even.vim" Type="VI" URL="../Comparison/Odd Or Even.vim"/>
+		<Item Name="Range Check.vim" Type="VI" URL="../Comparison/Range Check.vim"/>
+	</Item>
 	<Item Name="Conversion" Type="Folder">
 		<Item Name="Cluster" Type="Folder">
 			<Item Name="2D Array To Array of Numeric Clusters.vim" Type="VI" URL="../Conversion/2D Array To Array of Numeric Clusters.vim"/>
@@ -21,6 +28,7 @@
 		<Item Name="Filter Value.vim" Type="VI" URL="../Filtering/Filter Value.vim"/>
 		<Item Name="Mask Array.vim" Type="VI" URL="../Filtering/Mask Array.vim"/>
 		<Item Name="Set Array Elements.vim" Type="VI" URL="../Filtering/Set Array Elements.vim"/>
+		<Item Name="Unique.vim" Type="VI" URL="../Filtering/Unique.vim"/>
 	</Item>
 	<Item Name="Generation" Type="Folder">
 		<Item Name="Arange.vim" Type="VI" URL="../Generation/Arange.vim"/>
@@ -46,6 +54,8 @@
 		<Item Name="Cum Prod.vim" Type="VI" URL="../Math/Cum Prod.vim"/>
 		<Item Name="Cum Sum.vim" Type="VI" URL="../Math/Cum Sum.vim"/>
 		<Item Name="Differentiate Array.vim" Type="VI" URL="../Math/Differentiate Array.vim"/>
+		<Item Name="Vector Mean.vim" Type="VI" URL="../Metrics/Vector Mean.vim"/>
+		<Item Name="Vector Median.vim" Type="VI" URL="../Metrics/Vector Median.vim"/>
 	</Item>
 	<Item Name="Metrics" Type="Folder">
 		<Item Name="Array Count Dimensions.vim" Type="VI" URL="../Metrics/Array Count Dimensions.vim"/>
@@ -58,11 +68,9 @@
 		<Item Name="Get Content Bounds.vi" Type="VI" URL="../Metrics/Get Content Bounds.vi"/>
 		<Item Name="Get Foreground ND.vim" Type="VI" URL="../Metrics/Get Foreground ND.vim"/>
 		<Item Name="Label Connected Components 2D.vi" Type="VI" URL="../Metrics/Label Connected Components 2D.vi"/>
-		<Item Name="Vector Mean.vim" Type="VI" URL="../Metrics/Vector Mean.vim"/>
-		<Item Name="Vector Median.vim" Type="VI" URL="../Metrics/Vector Median.vim"/>
+		<Item Name="Numeric Info.vim" Type="VI" URL="../Metrics/Numeric Info.vim"/>
 	</Item>
 	<Item Name="Modification" Type="Folder">
-		<Item Name="Array Select.vim" Type="VI" URL="../Modification/Array Select.vim"/>
 		<Item Name="Choose Array Element.vim" Type="VI" URL="../Modification/Choose Array Element.vim"/>
 		<Item Name="Compress Array 2D.vim" Type="VI" URL="../Modification/Compress Array 2D.vim"/>
 		<Item Name="Copy Rows.vim" Type="VI" URL="../Modification/Copy Rows.vim"/>
@@ -73,6 +81,8 @@
 		<Item Name="Push Array Element.vim" Type="VI" URL="../Modification/Push Array Element.vim"/>
 		<Item Name="Reflect Rows 2D.vim" Type="VI" URL="../Modification/Reflect Rows 2D.vim"/>
 		<Item Name="Rotate Rows.vim" Type="VI" URL="../Modification/Rotate Rows.vim"/>
+		<Item Name="Round To Decimal.vim" Type="VI" URL="../Modification/Round To Decimal.vim"/>
+		<Item Name="Round To Nearest Multiple.vim" Type="VI" URL="../Modification/Round To Nearest Multiple.vim"/>
 	</Item>
 	<Item Name="Shape" Type="Folder">
 		<Item Name="Flatten Array.vim" Type="VI" URL="../Shape/Flatten Array.vim"/>
