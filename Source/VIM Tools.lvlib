@@ -64,6 +64,9 @@
 		<Item Name="Differentiate Array.vim" Type="VI" URL="../Math/Differentiate Array.vim"/>
 		<Item Name="Vector Mean.vim" Type="VI" URL="../Math/Vector Mean.vim"/>
 		<Item Name="Vector Median.vim" Type="VI" URL="../Math/Vector Median.vim"/>
+		<Item Name="Vector Min Max.vim" Type="VI" URL="../Math/Vector Min Max.vim"/>
+		<Item Name="Vector Norms.vim" Type="VI" URL="../Math/Vector Norms.vim"/>
+		<Item Name="Vector Percentiles.vim" Type="VI" URL="../Math/Vector Percentiles.vim"/>
 	</Item>
 	<Item Name="Metrics" Type="Folder">
 		<Item Name="Array Count Dimensions.vim" Type="VI" URL="../Metrics/Array Count Dimensions.vim"/>

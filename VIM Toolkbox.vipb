@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-12-09 10:58:36" Modified_Date="2023-03-12 14:44:23" Creator="LABVIEW" Comments="" ID="4344d9a079d30441c70a5fc00a7cb81c">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-12-09 10:58:36" Modified_Date="2023-03-17 07:47:32" Creator="LABVIEW" Comments="" ID="78cf0df01c91c0cf790b997656c1bbe1">
   <Library_General_Settings>
     <Package_File_Name>sklein_vim_tools</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -384,7 +384,7 @@
         <Path>Source\Default Value.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38EF94A9995DB3ECA7214E44CD22F62F</GUID>
+      <GUID>6692362128FEAE2D360FF7858354CD4F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -517,7 +517,7 @@
         <Path>Source\Collections\Set to Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>45F8CA2CB94F70AA306EC7354476804C</GUID>
+      <GUID>35DB225CD87A1E4B2DF19BB1AEEF531F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -608,7 +608,7 @@
         <Path>Source\Comparison\Range Check.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E9A0B5DE2608FF5FC6B573AF70C0EA6C</GUID>
+      <GUID>458F6545B7DDBB030B562FFC36FF53A8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -671,7 +671,7 @@
         <Path>Source\Conversion\Array To Typed Cluster.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>76E8A67A7330BDCD3AB908E48E3A0A8F</GUID>
+      <GUID>A09E5290667DFB57BC3A6B9D6B078353</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -762,7 +762,7 @@
         <Path>Source\Filtering\Unique.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>577AA21B736BA5393DC8D042C1A3D3E0</GUID>
+      <GUID>B0C71AAC58F2A42A4E507440CC41C62A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -853,7 +853,7 @@
         <Path>Source\Generation\Sample Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>17957F8D88DE20C8D2C5C07D649F86A5</GUID>
+      <GUID>39847D29B39944076D7585F696C97994</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1000,7 +1000,7 @@
         <Path>Source\Indexing\Unravel Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CEE154AFB0865FA05F9A4F76C2CE63CF</GUID>
+      <GUID>176B31082148AFBEE672F163A1A9819D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1119,7 +1119,49 @@
         <Path>Source\Math\Vector Median.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DF354AB275284348881DD8220C73FDBA</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Vector Min Max.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Math\Vector Min Max.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Vector Norms.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Math\Vector Norms.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Vector Percentiles.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Math\Vector Percentiles.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>3E3341C35D920A9ADDEB4ED61184DB2C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1308,7 +1350,7 @@
         <Path>Source\Metrics\Numeric Info.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ABC7ECA629EFFB200F21AA50768A0180</GUID>
+      <GUID>0B15475C9137B217E30A066F3A821324</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1497,7 +1539,7 @@
         <Path>Source\Modification\Round To Nearest Multiple.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F0B99AD9311BCB26BD5EC57CB71DDF19</GUID>
+      <GUID>C46D95E0C58EDCBE92492CC099A851A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1546,7 +1588,7 @@
         <Path>Source\Shape\Reshape Array ND.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>251DCFC823F2672C1E73EB9593EBBE43</GUID>
+      <GUID>00C0840940AA6AE0C82C2B0A07F89F7B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1609,7 +1651,7 @@
         <Path>Source\Sorting\Reorder Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>225F1D8BB8A6C6FCE8B70A266FBA03E2</GUID>
+      <GUID>6FCB1025ABD937AE5D3D47252D4DBB08</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
