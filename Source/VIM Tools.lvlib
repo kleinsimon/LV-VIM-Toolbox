@@ -40,6 +40,7 @@
 	</Item>
 	<Item Name="Generation" Type="Folder">
 		<Item Name="Arange.vim" Type="VI" URL="../Generation/Arange.vim"/>
+		<Item Name="Array Like.vim" Type="VI" URL="../Generation/Array Like.vim"/>
 		<Item Name="Interpolate 2D.vim" Type="VI" URL="../Generation/Interpolate 2D.vim"/>
 		<Item Name="Linspace.vim" Type="VI" URL="../Generation/Linspace.vim"/>
 		<Item Name="Repeat 1D.vim" Type="VI" URL="../Generation/Repeat 1D.vim"/>
@@ -62,6 +63,7 @@
 		<Item Name="Cum Prod.vim" Type="VI" URL="../Math/Cum Prod.vim"/>
 		<Item Name="Cum Sum.vim" Type="VI" URL="../Math/Cum Sum.vim"/>
 		<Item Name="Differentiate Array.vim" Type="VI" URL="../Math/Differentiate Array.vim"/>
+		<Item Name="Element-wise Min &amp; Max.vim" Type="VI" URL="../Math/Element-wise Min &amp; Max.vim"/>
 		<Item Name="Vector Mean.vim" Type="VI" URL="../Math/Vector Mean.vim"/>
 		<Item Name="Vector Median.vim" Type="VI" URL="../Math/Vector Median.vim"/>
 		<Item Name="Vector Min Max.vim" Type="VI" URL="../Math/Vector Min Max.vim"/>
@@ -75,7 +77,6 @@
 		<Item Name="Array Finite Max 2D.vim" Type="VI" URL="../Metrics/Array Finite Max 2D.vim"/>
 		<Item Name="Count Array Element.vim" Type="VI" URL="../Metrics/Count Array Element.vim"/>
 		<Item Name="Element Data Size.vim" Type="VI" URL="../Metrics/Element Data Size.vim"/>
-		<Item Name="Element-wise Min &amp; Max.vim" Type="VI" URL="../Metrics/Element-wise Min &amp; Max.vim"/>
 		<Item Name="Get Content Bounds.vi" Type="VI" URL="../Metrics/Get Content Bounds.vi"/>
 		<Item Name="Get Foreground ND.vim" Type="VI" URL="../Metrics/Get Foreground ND.vim"/>
 		<Item Name="Label Connected Components 2D.vi" Type="VI" URL="../Metrics/Label Connected Components 2D.vi"/>
@@ -96,6 +97,7 @@
 		<Item Name="Round To Nearest Multiple.vim" Type="VI" URL="../Modification/Round To Nearest Multiple.vim"/>
 	</Item>
 	<Item Name="Shape" Type="Folder">
+		<Item Name="Array Element Count.vim" Type="VI" URL="../Shape/Array Element Count.vim"/>
 		<Item Name="Flatten Array.vim" Type="VI" URL="../Shape/Flatten Array.vim"/>
 		<Item Name="Reshape Array ND.vim" Type="VI" URL="../Shape/Reshape Array ND.vim"/>
 	</Item>
