@@ -29,7 +29,12 @@
 			<Item Name="2D Array To Array of Numeric Clusters.vim" Type="VI" URL="../Conversion/2D Array To Array of Numeric Clusters.vim"/>
 			<Item Name="Array of Numeric Clusters to 2D Array.vim" Type="VI" URL="../Conversion/Array of Numeric Clusters to 2D Array.vim"/>
 			<Item Name="Array To Typed Cluster.vim" Type="VI" URL="../Conversion/Array To Typed Cluster.vim"/>
+			<Item Name="To Cluster Like.vim" Type="VI" URL="../Generation/To Cluster Like.vim"/>
 		</Item>
+	</Item>
+	<Item Name="Data Value References" Type="Folder">
+		<Item Name="Read Data Value Reference.vim" Type="VI" URL="../DVRs/Read Data Value Reference.vim"/>
+		<Item Name="Write Data Value Reference.vim" Type="VI" URL="../DVRs/Write Data Value Reference.vim"/>
 	</Item>
 	<Item Name="Filtering" Type="Folder">
 		<Item Name="Filter Array Finite.vim" Type="VI" URL="../Filtering/Filter Array Finite.vim"/>
@@ -41,7 +46,6 @@
 	<Item Name="Generation" Type="Folder">
 		<Item Name="Arange.vim" Type="VI" URL="../Generation/Arange.vim"/>
 		<Item Name="Array Like.vim" Type="VI" URL="../Generation/Array Like.vim"/>
-		<Item Name="Interpolate 2D.vim" Type="VI" URL="../Generation/Interpolate 2D.vim"/>
 		<Item Name="Linspace.vim" Type="VI" URL="../Generation/Linspace.vim"/>
 		<Item Name="Repeat 1D.vim" Type="VI" URL="../Generation/Repeat 1D.vim"/>
 		<Item Name="Sample Array.vim" Type="VI" URL="../Generation/Sample Array.vim"/>
@@ -50,8 +54,10 @@
 		<Item Name="Assert valid Index.vim" Type="VI" URL="../Indexing/Assert valid Index.vim"/>
 		<Item Name="Bin 2D.vim" Type="VI" URL="../Indexing/Bin 2D.vim"/>
 		<Item Name="Decimate Rows 2D.vim" Type="VI" URL="../Indexing/Decimate Rows 2D.vim"/>
+		<Item Name="Index 1D Array.vim" Type="VI" URL="../Indexing/Index 1D Array.vim"/>
 		<Item Name="Index Array Elements.vim" Type="VI" URL="../Indexing/Index Array Elements.vim"/>
 		<Item Name="Index ND Array.vim" Type="VI" URL="../Indexing/Index ND Array.vim"/>
+		<Item Name="Interpolate 2D.vim" Type="VI" URL="../Indexing/Interpolate 2D.vim"/>
 		<Item Name="Nonzero Array Elements.vim" Type="VI" URL="../Indexing/Nonzero Array Elements.vim"/>
 		<Item Name="Ravel Index.vi" Type="VI" URL="../Indexing/Ravel Index.vi"/>
 		<Item Name="Relative Kernel Indices.vi" Type="VI" URL="../Indexing/Relative Kernel Indices.vi"/>
