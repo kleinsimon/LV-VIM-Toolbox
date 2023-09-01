@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-12-09 10:58:36" Modified_Date="2023-03-20 07:59:42" Creator="LABVIEW" Comments="" ID="5912a77166d044c445f267ec28da1a49">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-12-09 10:58:36" Modified_Date="2023-09-01 08:02:00" Creator="LABVIEW" Comments="" ID="3cf61550c34a10cd943ab60bd8f86cbf">
   <Library_General_Settings>
     <Package_File_Name>sklein_vim_tools</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -398,7 +398,7 @@
         <Path>Source\Is Default Value.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>75BB6563013B263232E8095C6E0994C8</GUID>
+      <GUID>669197009998779103D12803482F887A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -531,7 +531,7 @@
         <Path>Source\Collections\Set to Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>78ECDA1BB5C99687FA684A9A94821F06</GUID>
+      <GUID>C1278384E1B42717AA518E38DEA96DF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -622,7 +622,7 @@
         <Path>Source\Comparison\Range Check.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>481A8FE1651B92B70F59176AA097955F</GUID>
+      <GUID>E5D204BD2A724FC268C9984FAFF2784D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -685,7 +685,7 @@
         <Path>Source\Conversion\Array To Typed Cluster.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>80F92A20F5E780C577A95B385853B94F</GUID>
+      <GUID>4F379B8612A23C2D5901C92D7382419B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -734,7 +734,7 @@
         <Path>Source\DVRs\Write Data Value Reference.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D61AA4F328A4B1F31BE746E8C8580EE1</GUID>
+      <GUID>63CBBC5FBC8A58904CB78B9D6A7015F3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -825,7 +825,7 @@
         <Path>Source\Filtering\Unique.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8B925E89273544994EFCA583450B5D80</GUID>
+      <GUID>03138AFD12B3A1EA30C50D080A9A9C99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -930,7 +930,7 @@
         <Path>Source\Generation\To Cluster Like.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A24F08A1C01EF340C1A3D209DFF9CBC5</GUID>
+      <GUID>39639F027A5447864FB3E55844A3960A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1105,7 +1105,7 @@
         <Path>Source\Indexing\Unravel Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A454B04E9B4F243EC3D2203F5D816F7A</GUID>
+      <GUID>93E34A2A4EB60044231E7D1C412A841D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1280,7 +1280,21 @@
         <Path>Source\Math\Vector Percentiles.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04DA71CE8C325E4B82805FBCC223436B</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Vector Statistics.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Math\Vector Statistics.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>EAA1C06195F7680F94222564FF31001D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1455,14 +1469,14 @@
         <Path>Source\Metrics\Numeric Info.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9FD51B46271ABF74112184A7B1387AB0</GUID>
+      <GUID>122105EE8B268A72AEAEA47CB2FECFC2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
       <Name>Modification</Name>
       <View_Format>Icons</View_Format>
       <Size>
-        <Height_Row>2</Height_Row>
+        <Height_Row>3</Height_Row>
         <Width_Col.>6</Width_Col.>
       </Size>
       <_256_Color_Icon>000004DA002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000002BF0000028B000000010007002000180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000001A0294025E46209B1AAAB52A5AAAA52A5A46A499500000001002900000012000000020000000D00CCCCFF000100000000000A0000000800190000002000200028000001C30000018F001900070020001A00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00001FFF6A9ADFFF8A92BFFFCC9ABFFF2A92BFFFCADABFFF00001FFF</_256_Color_Icon>
@@ -1644,7 +1658,49 @@
         <Path>Source\Modification\Round To Nearest Multiple.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F1C6203478221C4DC37B325AA1278A36</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Replace Array Elements.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>0</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Modification\Replace Array Elements.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Replace Array Elements.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>3</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Modification\Replace Array Elements.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Set Numeric Cluster Values.vim</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>3</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Modification\Set Numeric Cluster Values.vim</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>D8CC9581C9DB0FA8D77A8E5E5292562D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1707,7 +1763,7 @@
         <Path>Source\Shape\Reshape Array ND.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6DD4F20DEA6AED54046BAA1E8491E111</GUID>
+      <GUID>F78DCB75C1750B5AB0C212F22A031B8F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1770,7 +1826,7 @@
         <Path>Source\Sorting\Reorder Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7BA1D8112E2E9192EA9E26BCE10DB579</GUID>
+      <GUID>85E59B641FDBBC461896680895003E9C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
