@@ -11,6 +11,7 @@
 		<Item Name="Array To Set.vim" Type="VI" URL="../Collections/Array To Set.vim"/>
 		<Item Name="Arrays To Map.vim" Type="VI" URL="../Collections/Arrays To Map.vim"/>
 		<Item Name="Init Map.vim" Type="VI" URL="../Collections/Init Map.vim"/>
+		<Item Name="Init Set.vim" Type="VI" URL="../Collections/Init Set.vim"/>
 		<Item Name="Items To Map.vim" Type="VI" URL="../Collections/Items To Map.vim"/>
 		<Item Name="Map To Array.vim" Type="VI" URL="../Collections/Map To Array.vim"/>
 		<Item Name="Map To Items.vim" Type="VI" URL="../Collections/Map To Items.vim"/>

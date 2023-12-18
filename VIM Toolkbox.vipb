@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-12-09 10:58:36" Modified_Date="2023-10-12 12:05:56" Creator="LABVIEW" Comments="" ID="814dd2f1813693d36add477ac74a0778">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-12-09 10:58:36" Modified_Date="2023-12-18 14:27:46" Creator="LABVIEW" Comments="" ID="41fbc99f585e8fa0fefe8f3d45ad7947">
   <Library_General_Settings>
     <Package_File_Name>sklein_vim_tools</Package_File_Name>
-    <Library_Version>1.2.0.3</Library_Version>
+    <Library_Version>1.3.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -398,7 +398,7 @@
         <Path>Source\Is Default Value.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1E7859C5A555720EFA84FD1FBB27065E</GUID>
+      <GUID>26F3346944FF3B9184BBCF515748C3FC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -531,7 +531,7 @@
         <Path>Source\Collections\Set to Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>847C7803AD64EE7A04D0852C4421D194</GUID>
+      <GUID>7CC1F0C2F3760499598E04D3A3AAB79A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -622,7 +622,7 @@
         <Path>Source\Comparison\Range Check.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4119E7CAAD62679AEB84AE856BD0BA2F</GUID>
+      <GUID>159254921943A561E16A041AC25545B9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -685,7 +685,7 @@
         <Path>Source\Conversion\Array To Typed Cluster.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C9CBAD91AAC526ED1384C68EFA1E7D09</GUID>
+      <GUID>6A79B8D5E92F9FB3A710ECF16F074DD7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -734,7 +734,7 @@
         <Path>Source\DVRs\Write Data Value Reference.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D608F4A731172A6405C9CDDFFC768E4D</GUID>
+      <GUID>6062D122BF5F966E0FE324DA1AADBA83</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -825,7 +825,7 @@
         <Path>Source\Filtering\Unique.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0512810445A9E3291BD630CF29ECBF2B</GUID>
+      <GUID>578A6684423B08D3EC4B35D9932EEC1E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -930,7 +930,7 @@
         <Path>Source\Generation\To Cluster Like.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EA138B403F74516F2A16280B3AB10D9F</GUID>
+      <GUID>DA8971537DEBE1C2293EA0B28C76AC56</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1105,7 +1105,7 @@
         <Path>Source\Indexing\Unravel Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8BFEC54762552D5243FDC635044BADE1</GUID>
+      <GUID>A1B5236B4D9566DFF1EB99DB270D6372</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1294,7 +1294,7 @@
         <Path>Source\Math\Vector Statistics.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7844C381B9EB30B5B7967A0FD32DC14C</GUID>
+      <GUID>D0B9DBA42448DE00C6E09A4F7CDC52DC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1416,20 +1416,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Data Time.vim</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Source\Metrics\Get Data Time.vim</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Get Foreground ND.vim</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1469,7 +1455,7 @@
         <Path>Source\Metrics\Numeric Info.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>98ABC2E8639E46D4D19E84A16B19785F</GUID>
+      <GUID>1F95EF390DF1D8D74AC13A1759743D00</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1700,7 +1686,7 @@
         <Path>Source\Modification\Set Numeric Cluster Values.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CB5AD850C737A29BE50403EA942A3E0D</GUID>
+      <GUID>C0BE3DF8EB645C6EDA95D1BF56D23A7F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1763,7 +1749,7 @@
         <Path>Source\Shape\Reshape Array ND.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>69F9F8210C96BCD1C20AF4F24E7C842A</GUID>
+      <GUID>13876F215491FBA9DDA1F981DA4CDED3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1826,7 +1812,7 @@
         <Path>Source\Sorting\Reorder Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6D036D42806573E43051476E092AF054</GUID>
+      <GUID>F77823F01CCF25CDD1C4BAC775D8D64F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
